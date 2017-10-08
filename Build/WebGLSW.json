@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "WebGLSW.data.unityweb",
+"asmCodeUrl": "WebGLSW.asm.code.unityweb",
+"asmMemoryUrl": "WebGLSW.asm.memory.unityweb",
+"asmFrameworkUrl": "WebGLSW.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
