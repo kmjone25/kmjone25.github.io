@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "SaveStateActive.data.unityweb",
+"asmCodeUrl": "SaveStateActive.asm.code.unityweb",
+"asmMemoryUrl": "SaveStateActive.asm.memory.unityweb",
+"asmFrameworkUrl": "SaveStateActive.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
